@@ -10,6 +10,6 @@ public class Hello {
     }
 
     public void test2(){
-        System.out.println(5);
+        System.out.println(6);
     }
 }
